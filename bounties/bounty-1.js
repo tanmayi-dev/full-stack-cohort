@@ -1,12 +1,12 @@
-let sum = 0;
+/**
+youtube on this codebase - https://codepen.io/100xdevs/pen/oNmaXxK
+Requirements - 
+In the same codebase as above, you should be able to specify an array of segments (similar to youtube)
+The player seekbar should get divided into those segments,
+There should be a function (scrollToSegment) that lets the user scroll to the start of that specific segment
 
-for (let i = 0; i < 1000000000000; i++) {
-  sum = sum + i;
-}
+First person to make a production worthy and mildly clean looking submission here wins the bounty. This code will also be used in the cohort website.
 
-console.log(sum);
+Attaching screenshot of what I mean by segments (doesn't need to have the photo previews, just a description popup on hover is fine)
 
-// Why does none of the core reach 100% utilization ?
-// Run the program locally, since js is single threaded, why does it take
-
-// Answer: top command in linux fixes it, it was not showing proper hardware usage
+ */
